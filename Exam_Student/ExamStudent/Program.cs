@@ -1,4 +1,4 @@
-﻿using System.Linq.Expressions;
+﻿using ExamStudent.Models;
 
 namespace ExamStudent
 {
@@ -10,7 +10,7 @@ namespace ExamStudent
 
             while (true)
             {
-                Console.WriteLine("Secim edin: \n1.Add exam. \n2.All exams. \n3.Pointi 50-den cox olan examlarin siyahisi. \n4.1 hefte erzinde olan imtahanlar. \n5.1 saatdan az ceken imtahanlar");
+                Console.WriteLine("Choose option: \n1.Add exam. \n2.All exams. \n3.List of exams with more than 50 points. \n4.Exams in 1 week. \n5.Exams lasting less than 1 hour.");
                 int input = Convert.ToInt32(Console.ReadLine());
 
                 switch (input)
@@ -18,14 +18,14 @@ namespace ExamStudent
                     case 1:
                         Exam exam = new Exam();
                         Console.WriteLine("Student Name: ");
-                        exam.Student = Console.ReadLine();
+                        exam.StudentName = Console.ReadLine();
                         Console.WriteLine("Exam subject: ");
                         exam.Subject = Console.ReadLine();
                         Console.WriteLine("Student point: ");
                         exam.Point = Convert.ToInt32(Console.ReadLine());
-                        Console.WriteLine("Baslama tarixi (yyyy-MM-dd HH:mm:ss): ");
+                        Console.WriteLine("Start time (yyyy-MM-dd HH:mm:ss): ");
                         exam.StartTime = DateTime.Parse(Console.ReadLine());
-                        Console.WriteLine("Bitme tarixi (yyyy-MM-dd HH:mm:ss): ");
+                        Console.WriteLine("End time (yyyy-MM-dd HH:mm:ss): ");
                         exam.EndTime = DateTime.Parse(Console.ReadLine());
                         exams.Add(exam);
                         break;
