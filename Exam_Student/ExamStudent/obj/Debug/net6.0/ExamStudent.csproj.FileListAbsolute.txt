@@ -1,0 +1,14 @@
+C:\Users\Rashad\Desktop\ExamStudent\ExamStudent\bin\Debug\net6.0\ExamStudent.exe
+C:\Users\Rashad\Desktop\ExamStudent\ExamStudent\bin\Debug\net6.0\ExamStudent.deps.json
+C:\Users\Rashad\Desktop\ExamStudent\ExamStudent\bin\Debug\net6.0\ExamStudent.runtimeconfig.json
+C:\Users\Rashad\Desktop\ExamStudent\ExamStudent\bin\Debug\net6.0\ExamStudent.dll
+C:\Users\Rashad\Desktop\ExamStudent\ExamStudent\bin\Debug\net6.0\ExamStudent.pdb
+C:\Users\Rashad\Desktop\ExamStudent\ExamStudent\obj\Debug\net6.0\ExamStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\Desktop\ExamStudent\ExamStudent\obj\Debug\net6.0\ExamStudent.AssemblyInfoInputs.cache
+C:\Users\Rashad\Desktop\ExamStudent\ExamStudent\obj\Debug\net6.0\ExamStudent.AssemblyInfo.cs
+C:\Users\Rashad\Desktop\ExamStudent\ExamStudent\obj\Debug\net6.0\ExamStudent.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\Desktop\ExamStudent\ExamStudent\obj\Debug\net6.0\ExamStudent.dll
+C:\Users\Rashad\Desktop\ExamStudent\ExamStudent\obj\Debug\net6.0\refint\ExamStudent.dll
+C:\Users\Rashad\Desktop\ExamStudent\ExamStudent\obj\Debug\net6.0\ExamStudent.pdb
+C:\Users\Rashad\Desktop\ExamStudent\ExamStudent\obj\Debug\net6.0\ExamStudent.genruntimeconfig.cache
+C:\Users\Rashad\Desktop\ExamStudent\ExamStudent\obj\Debug\net6.0\ref\ExamStudent.dll
